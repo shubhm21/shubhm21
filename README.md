@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hello,I'm Shubham</h1>
 <h3 align="center">A ML wizard trying to gain mastery on his magic</h3>
 
 - 📫 How to reach me **shubhamnavik21@gmail.com**
