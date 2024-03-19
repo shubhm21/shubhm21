@@ -1,5 +1,5 @@
 <h1 align="center">Hello,I'm Shubham</h1>
-<h3 align="center">A ML wizard trying to gain mastery on his magic</h3>
+<h3 align="center">I'm trying to learn everything i could</h3>
 
 - 📫 How to reach me **shubhamnavik21@gmail.com**
 
