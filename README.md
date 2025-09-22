@@ -1,13 +1,21 @@
-<h1 align="center">Hello,I'm Shubham</h1>
-<h3 align="center">I'm trying to learn everything i could</h3>
+# 👋 Hi, I'm Shubham Navik  
 
-- 📫 How to reach me **shubhamnavik21@gmail.com**
+📊 **Aspiring Data Analyst | Business Analytics Student | AI & ML Enthusiast**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubhamnavik21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamnavik21" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubhammnavik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhammnavik" height="30" width="40" /></a>
-</p>
+I’m passionate about transforming raw data into meaningful insights. With hands-on experience in Python, SQL, and visualization tools like Power BI and Excel, I love building dashboards, segmentation models, and process optimization solutions. Currently pursuing **Business Analytics at Lambton College (Canada)**, I aim to contribute to data-driven decision making and business growth.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Technical Skills  
+
+- **Languages & Tools:** Python, R, C++, SQL, JavaScript, CSS  
+- **Databases & Data Handling:** Pandas, NumPy, MySQL, MongoDB  
+- **Visualization:** Matplotlib, Seaborn, Excel, Power BI  
+- **Machine Learning:** Scikit-Learn, TensorFlow, Keras  
+
+## 📫 Let’s Connect  
+
+- 📧 Email: **shubhamnavik21@gmail.com**  
+
+---
+⭐️ From [Shubham Navik](#)
