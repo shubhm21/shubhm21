@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Navik</h1>
-I'm a **Business Analytics student at Lambton College** with hands-on experience in Python, SQL, and data visualization tools like Power BI and Excel. I enjoy turning data into actionable insights through analysis, dashboards, and machine learning models.  
+I'm a Business Analytics student at Lambton College with hands-on experience in Python, SQL, and data visualization tools like Power BI and Excel. I enjoy turning data into actionable insights through analysis, dashboards, and machine learning models.  
 
 🔍 Currently, I’m looking for a **Data Analyst / Business Analytics Co-op opportunity** where I can apply my technical skills and contribute to data-driven decision making.  
 - 📫 How to reach me **shubhamnavik21@gmail.com**
