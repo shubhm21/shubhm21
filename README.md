@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Shubham Navik</h1>
+<h1 align="center"> HELLO, I'm Shubham Navik</h1>
 
 <p align="center">
-🤖 Aspiring Data Scientist | 🇨🇦 Based in Ottawa
+Aspiring Data Scientist 
 </p>
 
 ---
 
-## 🚀 About Me
-- 🤖 Aspiring **Data Scientist** with a strong foundation in machine learning and data analysis
-- 📊 Passionate about solving real-world problems using data-driven approaches
-- 🧠 Experienced in working with datasets, building models, and extracting meaningful insights
-- 🔍 Currently seeking **Data Science Intern / Entry-Level Opportunities**
+##  About Me
+-  Aspiring **Data Scientist** with a strong foundation in machine learning and data analysis
+-  Passionate about solving real world problems using data driven approaches
+-  Experienced in working with datasets, building models, and extracting meaningful insights
+-  Currently seeking **Data Science Intern / Entry Level Opportunities**
 
 ---
 
-## 🧠 Technical Skills
+##  Technical Skills
 
 **Programming Languages:**  
 Python, SQL, R  
@@ -30,29 +30,6 @@ MySQL, MongoDB
 
 **Tools & Technologies:**  
 Git, GitHub, Jupyter Notebook  
-
----
-
-## 📂 Featured Projects
-
-### 🤖 Customer Behavior Prediction Model
-- Built machine learning models using Scikit-Learn to predict customer behavior  
-- Performed data cleaning, feature engineering, and model evaluation  
-- Improved model performance through iterative tuning  
-
----
-
-### 🧠 AI-Based Text Generation Tool
-- Developed a text generation system using NLP techniques  
-- Focused on generating context-aware and meaningful responses  
-- Applied machine learning concepts to enhance communication scenarios  
-
----
-
-### 📊 Retail Data Analysis & Insights
-- Conducted exploratory data analysis using Python (Pandas, NumPy)  
-- Identified trends, patterns, and key business insights  
-- Created visualizations to support data-driven decision-making  
 
 ---
 
