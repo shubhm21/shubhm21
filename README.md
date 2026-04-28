@@ -32,17 +32,3 @@ MySQL, MongoDB
 Git, GitHub, Jupyter Notebook  
 
 ---
-
-## 📫 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/shubhamnavik21/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
-
-📧 Email: shubhamnavik21@gmail.com  
-
----
-
-<p align="center">
-🚀 Focused on building real-world ML solutions • Open to opportunities
