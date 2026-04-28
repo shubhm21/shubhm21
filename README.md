@@ -67,13 +67,5 @@ Git, GitHub, Jupyter Notebook
 
 ---
 
-## ⚡ What I'm Working On
-- Building end-to-end machine learning projects  
-- Improving model evaluation and performance  
-- Strengthening data pipelines and SQL skills  
-- Preparing for Data Science interviews  
-
----
-
 <p align="center">
 🚀 Focused on building real-world ML solutions • Open to opportunities
